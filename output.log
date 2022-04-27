@@ -1,0 +1,24 @@
+Linux vara-sys9 3.10.0-1160.49.1.el7.x86_64 #1 SMP Tue Nov 30 15:51:32 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        1.9G     0  1.9G   0% /dev
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           1.9G   13M  1.9G   1% /run
+tmpfs           1.9G     0  1.9G   0% /sys/fs/cgroup
+/dev/sda2        25G  6.3G   19G  26% /
+/dev/sda1      1014M  231M  784M  23% /boot
+/dev/sda3       5.0G  296M  4.8G   6% /home
+/dev/sda5       5.0G  1.1G  4.0G  21% /var
+/dev/sdc        9.8G   37M  9.2G   1% /scripts/ansible
+/dev/sdb        9.8G  7.5G  1.8G  81% /repo
+tmpfs           378M   40K  378M   1% /run/user/1000
+/dev/sr0        4.4G  4.4G     0 100% /run/media/vara/CentOS 7 x86_64
+tmpfs           378M     0  378M   0% /run/user/0
+Wed Apr 27 22:38:53 IST 2022
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+0.0.0.0         10.10.0.1       0.0.0.0         UG        0 0          0 eth0
+10.10.0.0       0.0.0.0         255.255.0.0     U         0 0          0 eth0
+169.254.0.0     0.0.0.0         255.255.0.0     U         0 0          0 eth0
+192.168.122.0   0.0.0.0         255.255.255.0   U         0 0          0 virbr0
+ 22:38:53 up 7 min,  3 users,  load average: 0.01, 0.13, 0.11
+pre checks execution completed
